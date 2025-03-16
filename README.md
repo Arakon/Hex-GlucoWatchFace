@@ -2,6 +2,7 @@
 Watchface to use with the new [GlucoDataHandler](https://github.com/pachi81/GlucoDataHandler) complications, with Graph.
 
 Mainly intended to be used on a Galaxy Watch 4-7 with large colored Value + Trend on the left and large Delta + Time on the right, with 2 additional small, round complications for steps, IoB, etc. Set the 3x1 Graph complication in the large center box.
+The quarter circle bar in the top right is the watch battery.
 
 Comes with 3 color themes.
 
